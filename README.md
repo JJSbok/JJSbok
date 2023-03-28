@@ -1,10 +1,19 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?color=0:3db272,50:2c7e53,100:1D5538&type=waving&text=Welcome%20to%20JS%20World&animation=fadeIn&fontSize=50&fontColor=FFFFFF&fontAlign=70&fontAlignY=40&height=200&desc=JAVA%20Python&descAlign=80)
+
+
+
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&color=1D5538&type=soft)
+
 <!--
 **JJSbok/JJSbok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-https://capsule-render.vercel.app/api?
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
