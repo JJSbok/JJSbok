@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?color=0:3db272,50:2c7e53,100:1D5538&type=waving&text=Welcome%20to%20JS%20World&animation=fadeIn&fontSize=50&fontColor=FFFFFF&fontAlign=70&fontAlignY=40&height=200&desc=JAVA%20Python&descAlign=80)
+![header](https://capsule-render.vercel.app/api?color=0:3db272,50:2c7e53,100:1D5538&type=soft&text=Welcome%20to%20JS%20World&animation=fadeIn&fontSize=50&fontColor=FFFFFF&fontAlign=70&fontAlignY=40&height=200&desc=JAVA%20Python&descAlign=80)
 
 
 
