@@ -19,7 +19,7 @@
 
 <h3 align="center">👦🏻CONTACT👦🏻</h3>
   <p align="center">
-  <a href="mailto:sprpsa97020@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sprpsa9702@gmail.com"/></a>
+  <a href="mailto:sprpsa9702@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sprpsa9702@gmail.com"/></a>
  </p>
 
 <!--
